@@ -15,4 +15,4 @@ My name is Ben Gottwald, I'm the CEO of [memorybay.de](https://memorybay.de).
 #### 📫 How to reach me
 
 - Twitter: [@weselben](https://twitter.com/weselben)
-- Email: [ben@memorybay.de](mailto://ben@memorybay.de)
+- Email: [weselben@weselben.de](mailto://weselben@weselben.de)
