@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Ben Gottwald, I'm the CEO of [memorybay.de](https://memorybay.de).
+My name is Ben Gottwald, I'm the Freelancing for memoryGroup (ex. memorybay.de) also working for MG Wesel GmbH 
 
 ---
 
