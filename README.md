@@ -36,8 +36,8 @@ I architect high-performance E-Commerce infrastructure, engineer intelligent aut
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=weselben&count-private=true&theme=transparent&show_icons=true" alt="Ben's GitHub Stats" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weselben&count-private=true&theme=transparent&layout=compact" alt="Top Languages" width="48%" />
+  <img align="left" src="https://github-readme-stats.weselben.de/api?username=weselben&count-private=true&theme=transparent&show_icons=true" alt="Ben's GitHub Stats" width="48%" />
+  <img align="right" src="https://github-readme-stats.weselben.de/api/top-langs/?username=weselben&count-private=true&theme=transparent&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 <br clear="both" />
