@@ -1,4 +1,4 @@
-# Hey there! I'm Ben Gottwald 👋
+# Hey there! I'm Ben 👋
 
 ### 🚀 E-Commerce DevOps Engineer | Shopware 6 Performance & Technical SEO Specialist
 
@@ -46,6 +46,6 @@ I architect high-performance E-Commerce infrastructure, engineer intelligent aut
 
 ### 📫 Let's Connect!
 
-*   **LinkedIn:** [Ben Gottwald](https://www.linkedin.com/in/ben-gottwald-870797186)
-*   **Email:** [bengottwaldi04+git@gmail.de](mailto:bengottwaldi04+git@gmail.de) (Best way to reach out for git/dev inquiries)
+*   **LinkedIn:** [Ben](https://www.linkedin.com/in/ben-gottwald-870797186)
+*   **Email:** [gmail](mailto:bengottwaldi04+git@gmail.de) (Best way to reach out for git/dev inquiries)
 *   **X (Twitter):** [@weselben](https://twitter.com/weselben) *(Note: Not actively used right now, but feel free to connect!)*
